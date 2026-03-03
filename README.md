@@ -4,3 +4,5 @@ Comienzo con la importacion y carga de datos de las tiendas junto a el analisis 
 Uso .groupby('Nombre_Tienda') para juntar todas las filas que pertenecen a la misma tienda. 
 Aplicando ['Precio'].sum() para sumar el dinero de todas esas ventas.
 Usao plt.bar() de Matplotlib para dibujar el gráfico.
+
+creando un grafico con barras para mejor visualizacion de la tienda 4 (menor ventas)
